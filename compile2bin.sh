@@ -1,0 +1,1 @@
+v -o /usr/bin/pre main.v
